@@ -1,2 +1,2 @@
 # Quiz-Application
-quiz application with the help of Java Swing , Java GUI.
+Quiz application with the help of Java Swing , Java GUI.
